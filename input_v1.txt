@@ -1,0 +1,89 @@
+
+Денищенко Дмитрий Данилович
+ p: v1/ddd.png
+Денищенко Анна Ивановна
+ p: v1/dai.png
+Денищенко Дмитрий Данилович + Денищенко Анна Ивановна
+ n: blah blah blah blah
+ c: Ирикова(Денищенко) Лидия Дмитриевна, Денищенко Александр Дмитриевич, Денищенко Евгений Дмитриевич, Денищенко Анатолий Дмитриевич
+
+Денищенко Александр Дмитриевич
+ p: v1/dad.png
+
+Денищенко Евгений Дмитриевич
+ p: simpsons/28.png
+
+Денищенко Анатолий Дмитриевич
+ p: simpsons/28.png
+
+Хабалов Владимир Сергеевич
+ l: 1925-2013
+ n: blah blah blah blah
+ p: simpsons/28.png
+Макеева Римма Александровна
+ l: 1925-2013
+ n: blah blah blah blah
+ p: simpsons/28.png
+Хабалов Владимир Сергеевич + Макеева Римма Александровна
+ n: blah blah blah blah
+ c: Ирикова(Хабалова) Елена Владимировна
+Иван Ириков
+ l: 1915-1971
+ n: blah blah blah blah
+ p: v1/iik.png
+Ирикова(Денищенко) Лидия Дмитриевна
+ l: 1923-2015
+ n: blah blah blah blah
+ p: v1/ild.png
+Иван Ириков + Ирикова(Денищенко) Лидия Дмитриевна
+ n: blah blah blah blah
+ c: Ириков Игорь Иванович
+
+Николай Фланков
+ l: 1959-
+ n: blah blah blah blah
+ p: simpsons/28.png
+Татьяна Фланкова
+ l: 1959-
+ n: blah blah blah blah
+ p: simpsons/28.png
+Николай Фланков + Татьяна Фланкова
+ n: blah blah blah blah
+ c: Елена Ирикова(Фланкова), Ольга Раухмане(Фланкова)
+
+Ириков Игорь Иванович
+ l: 1949-
+ n: blah blah blah blah
+ p: v1/iii.png
+Ирикова(Хабалова) Елена Владимировна
+ l: 1952-
+ n: blah blah blah blah
+ p: v1/iev.jpg
+Ириков Игорь Иванович + Ирикова(Хабалова) Елена Владимировна
+ n: blah blah blah blah
+ c: Дмитрий Ириков
+Дмитрий Ириков
+ l: 1982-
+ n: blah blah blah blah
+ p: simpsons/28.png
+Елена Ирикова(Фланкова)
+ l: 1984-
+ n: blah blah blah blah
+ p: simpsons/28.png
+Дмитрий Ириков + Елена Ирикова(Фланкова)
+ n: blah blah blah blah
+ c: Арина Ирикова, Родион Ириков
+Арина Ирикова
+ l: 2015-
+ n: blah blah blah blah
+ p: simpsons/28.png
+Родион Ириков
+ l: 2020-
+ n: blah blah blah blah
+ p: simpsons/28.png
+
+
+Ольга Раухмане(Фланкова)
+ l: 1982-
+ n: blah blah blah blah
+ p: simpsons/28.png
