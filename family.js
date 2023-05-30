@@ -2,7 +2,7 @@
 'use strict';
 
 var familyDataFilename = "input_v1.txt";            // Your own family.txt
-var defaultRootName = 'Арина Ирикова';                // Someone in your family
+var defaultRootName = 'Денищенко Дмитрий Данилович';                // Someone in your family
 
 
 var lineHeight = 280;  // 220 is better, but the Simpsons pngs are very vertical
